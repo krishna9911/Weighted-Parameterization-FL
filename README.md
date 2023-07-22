@@ -4,4 +4,5 @@ This research project modifies the widely used federated averaging algorithm usi
 
 Our experimentation has shown that the re-parameterization of weights using the weighted-average concept makes convergence much faster than simple-average. This technique benefits the peer nodes in a distributed setting to learn the patterns of cyber-attacks happening on other peer nodes very fast.
 
-<a href="https://drive.google.com/file/d/19NG0lsLWUP3dFJwONZnD_dc5A8OqXnRG/view?usp=share_link">result</a>
+
+![Tux, the Linux mascot](/assets/images/tux.png)
