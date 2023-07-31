@@ -6,7 +6,7 @@ Our experimentation has shown that the re-parameterization of weights using the 
 <p style="color📘">This approach benefits the peer nodes in a distributed setting to learn the patterns of cyber-attacks happening on other peer nodes in a few communication rounds.
 </p>
 
-We tested our approach on CICIDS 2017 & NSL-KDD dataset.
+We tested our approach on CICIDS 2017 & NSL-KDD dataset. The blue graph represents the widely used federated averaging algorithm, and the green graph indicates our federated algorithm with reparameterization.
 
 
 ![Tux, the Linux mascot](/result/result.png)
